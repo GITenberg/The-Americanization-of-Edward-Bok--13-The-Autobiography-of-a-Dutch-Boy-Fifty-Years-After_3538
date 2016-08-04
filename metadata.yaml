@@ -1,0 +1,30 @@
+_repo: The-Americanization-of-Edward-Bok--13-The-Autobiography-of-a-Dutch-Boy-Fifty-Years-After_3538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bok, Edward William
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '1223'
+    url: http://www.gutenberg.org/2009/agents/1223
+    wikipedia: http://en.wikipedia.org/wiki/Edward_W._Bok
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ladies'' Home Journal'
+- !lcsh 'Bok, Edward William, 1863-1930'
+- !lcc 'PN'
+- !lcsh 'Dutch Americans -- Biography'
+- !lcsh 'Periodical editors -- United States -- Biography'
+- GITenberg
+title: "The Americanization of Edward Bok\r\nThe Autobiography of a Dutch Boy Fifty\
+  \ Years After"
+url: http://www.gutenberg.org/ebooks/3538
