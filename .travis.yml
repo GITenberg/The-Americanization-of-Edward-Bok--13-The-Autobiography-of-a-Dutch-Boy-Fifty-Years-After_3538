@@ -1,0 +1,61 @@
+sudo: required
+dist: trusty
+language: ruby
+
+before_install:
+before_install:
+- gem install asciidoctor -v 1.5.2
+- gem install tilt
+- sudo pip install git+https://github.com/gitenberg-dev/gitberg
+- sudo pip install pillow
+- sudo pip install cssutils
+- sudo pip install docutils
+- sudo pip install roman
+- sudo pip install git+https://github.com/gitenberg-dev/pg-epubmaker
+script:
+- VERSION=`ruby -e "require 'yaml'; meta = YAML.load_file('metadata.yaml'); puts meta['_version'];"`
+- git clone https://github.com/gitenberg-dev/asciidoctor-htmlbook.git
+- sudo pip install -r asciidoctor-htmlbook/gitberg-machine/requirements.txt
+
+- /usr/bin/python -c "from gitenberg import travis; travis.build_epub()"
+- ebook-convert book.epub book.mobi
+- xvfb-run ebook-convert book.epub book.pdf
+branches:
+  only:
+  - master
+notifications:
+  webhooks:
+    urls:
+      - https://unglue.it/api/travisci/webhook
+    on_success: always
+    on_failure: never
+    on_start: never
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: P5wgqLDEnv5KVplF8S0oNBTQVhCHC6mWs8GJea2WxGFlCYyJXClTOyVt+uPslbgkPA9Etst9l9PUPIEIfpMQSuBtf5psp/7Ouh+1aUtIuheY7UCwVTMPlcTA86krXPvp5jpyy6nNmPXWZhNz4JsFIRWBZOfjYMc+zwRC+q7ZHzhMefUs22n8lmTbsxe6n2lSMJ4rIsI7T9vKwisuex0yVxb0AcwDIBbiWFBy9d7HDu7qQ46CqcY/noIdITeQeFi+7fQeegwF+s5LZgVVerl7CUU3ldXoaakBjDlOYEADymBKihyzxHIo0GsIP5EZZiY/OMzrFHxIsOohr/dNkqC8KYx3hLXHcWbM1R0DPdZ5r5hTQPyaEQU0pguuJovdBlqo+IDzWV/dF20HfzAuaFk4dUWTJpgQDs0tp59rvucKDqrkA835M/xa9tG6RoufrISwytIb/IqY3RycJOMW/j5TiQfT6PdCY01dzVTVfH/DN2xmQMBFt9osrJG1sPZkz2fdebbnF0lZCE9qCXpTrjNAQaAa2O7H8SaBfK9i8AJ79SON5U2QE980QcBJnUJ+i3v8nVVTbNKTWNjUNSVXW/+K4OoL4hTo0/LcFsSblImoRCR7upw9AoixB98MNQLJifMaerjdaY/StXSyH2vSVXZ7DmMFGwHJXpQL97jYE5nwvZ0=
+  file:
+    - book.epub
+    - book.mobi
+    - book.pdf
+  "on":
+    repo: GITenberg/The-Americanization-of-Edward-Bok--13-The-Autobiography-of-a-Dutch-Boy-Fifty-Years-After_3538
+addons:
+  apt:
+    packages:
+    - xsltproc
+    - xvfb
+    - calibre
+    - python-pip
+    - git
+    - python-dev
+    - libjpeg-dev
+    - libpng-dev
+    - libfreetype6
+    - libfreetype6-dev
+    - zlib1g-dev
+    - python-lxml
+    - libxml2-dev
+    - libxslt1-dev
+    - tidy
