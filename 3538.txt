@@ -1,37 +1,367 @@
-Project Gutenberg's The Americanization of Edward Bok, by Edward William Bok
+Project Gutenberg's The Americanization of Edward Bok, by Edward Bok
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
 
 
-Title: The Americanization of Edward Bok
-       The Autobiography of a Dutch Boy Fifty Years After
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
 
-Author: Edward William Bok
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+Title:  The Americanization of Edward Bok
+The Autobiography of a Dutch Boy Fifty Years After
+
+Author:  Edward William Bok (1863-1930)
 
 Release Date: November, 2002  [Etext #3538]
-Posting Date: March 8, 2010 [EBook #3538]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 05/30/01]
+
+Edition: 10
 
 Language: English
 
-Character set encoding: ASCII
+Project Gutenberg's The Americanization of Edward Bok, by Edward Bok
+********This file should be named 3538.txt or 3538.zip********
 
-*** START OF THIS PROJECT GUTENBERG EBOOK THE AMERICANIZATION OF EDWARD BOK ***
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext02
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext02
+
+Or /etext01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of 05/16/01 contributions are only being solicited from people in:
+Connecticut, Louisiana, Maine, Missouri, Oklahoma, Colorado,
+Delaware, Hawaii, Idaho, Indiana, Iowa, Montana, Nebraska,
+South Dakota, Texas, Vermont, Wyoming, South Carolina.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.05/20/01*END*
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
 
 
 
 
-Produced by An Anonymous Volunteer
 
 
-
-
-
-THE AMERICANIZATION OF EDWARD BOK
-
-THE AUTOBIOGRAPHY OF A DUTCH BOY FIFTY YEARS AFTER
+The Americanization of Edward Bok
+The Autobiography of a Dutch Boy Fifty Years After
 
 by Edward William Bok (1863-1930)
 
@@ -46,9 +376,7 @@ home and family may mean.
 
 
 
-
 An Explanation
-
 
 This book was to have been written in 1914, when I foresaw some leisure
 to write it, for I then intended to retire from active editorship. But
@@ -115,9 +443,7 @@ MERION, PENNSYLVANIA, 1920
 
 
 
-
 CONTENTS
-
 
 An Explanation
 An Introduction of Two Persons
@@ -165,12 +491,10 @@ The Expression of a Personal Pleasure
 
 
 
-
 An Introduction of Two Persons
 
 IN WHOSE LIVES ARE FOUND THE SOURCE AND MAINSPRING OF SOME OF THE
 EFFORTS OF THE AUTHOR OF THIS BOOK IN HIS LATER YEARS
-
 
 Along an island in the North Sea, five miles from the Dutch Coast,
 stretches a dangerous ledge of rocks that has proved the graveyard of
@@ -253,7 +577,7 @@ no more beautiful place."
 
 The trees are now majestic in their height of forty or more feet, for it
 is nearly a hundred years since the young attorney went to the island
-and planted the first tree; to-day the churchyard where he lies is a
+and planted the first tree; today the churchyard where he lies is a
 bower of cool green, with the trees that he planted dropping their
 moisture on the lichen-covered stone on his grave.
 
@@ -324,7 +648,7 @@ the influence of this one man and one woman, whose life on that little
 Dutch island changed its barren rocks to a bower of verdure, a home for
 the birds and the song of the nightingale. The grandchildren have gone
 to the four corners of the globe, and are now the generation of
-workers--some in the far East Indies; others in Africa; still others in
+workers-some in the far East Indies; others in Africa; still others in
 our own land of America. But each has tried, according to the talents
 given, to carry out the message of that day, to tell the story of the
 grandfather's work; just as it is told here by the author of this book,
@@ -336,14 +660,7 @@ been in it."
 
 
 
-
-The Americanization of Edward Bok
-
-
-
-
 I. The First Days in America
-
 
 The Leviathan of the Atlantic Ocean, in 1870, was The Queen, and when
 she was warped into her dock on September 20 of that year, she
@@ -514,9 +831,7 @@ upon his career of editing!
 
 
 
-
 II. The First Job: Fifty Cents a Week
-
 
 The Elder Bok did not find his "lines cast in pleasant places" in the
 United States. He found himself, professionally, unable to adjust the
@@ -735,9 +1050,7 @@ started to work for her!
 
 
 
-
 III. The Hunger for Self-Education
-
 
 With school-days ended, the question of self-education became an
 absorbing thought with Edward Bok. He had mastered a schoolboy's
@@ -953,7 +1266,7 @@ for it. We have a few moments."
 photographs with you, boy."
 
 To Edward's surprise, when the general returned he brought with him, not
-a duplicate of the small _carte-de-visite_ size which he had given the
+a duplicate of the small carte-de-visite size which he had given the
 general--all that he could afford--but a large, full cabinet size.
 
 "They make 'em too big," said the general, as he handed it to Edward.
@@ -1033,7 +1346,7 @@ Knapp's instant reply. "Send me a list, and group them, as, for
 instance: presidents and vice-presidents, famous soldiers, actors,
 authors, etc."
 
-"And thus," says Mr. Knapp, as he tells the tale to-day, "I gave Edward
+"And thus," says Mr. Knapp, as he tells the tale today, "I gave Edward
 Bok his first literary commission, and started him off on his literary
 career."
 
@@ -1061,9 +1374,7 @@ writing and to editorship.
 
 
 
-
 IV. A Presidential Friend and a Boston Pilgrimage
-
 
 Edward Bok had not been office boy long before he realized that if he
 learned shorthand he would stand a better chance for advancement. So he
@@ -1379,7 +1690,7 @@ heart swelled in gratitude:
 boy."
 
   A few can touch the magic string.
-  And noisy fame is proud to win them,--
+  And noisy fame is proud to win them, --
   Alas for those who never sing.
   But die with all their music in them!
   Oliver Wendell Holmes
@@ -1432,9 +1743,7 @@ keep that nickel if I lose my job for it."
 
 
 
-
 V. Going to the Theatre with Longfellow
-
 
 When Edward Bok stood before the home of Longfellow, he realized that he
 was to see the man around whose head the boy's youthful reading had cast
@@ -1563,7 +1872,7 @@ boy, a very great compliment."
 "Ah," he said, rousing himself, as a maid appeared, "that means
 luncheon, or rather," he added, "it means dinner, for we have dinner in
 the old New England fashion, in the middle of the day. I am all alone
-to-day, and you must keep me company; will you? Then afterward we'll go
+today, and you must keep me company; will you? Then afterward we'll go
 and take a walk, and I'll show you Cambridge. It is such a beautiful old
 town, even more beautiful, I sometimes think, when the leaves are off
 the trees.
@@ -1647,9 +1956,7 @@ Boston was a great place, Edward Bok thought, as he fell asleep.
 
 
 
-
 VI. Phillips Brooks's Books and Emerson's Mental Mist
-
 
 No one who called at Phillips Brooks's house was ever told that the
 master of the house was out when he was in. That was a rule laid down by
@@ -1717,7 +2024,7 @@ Trinity Church was immensely amused.
 
 "Just to see us fellows! Well, and how do you like us so far?"
 
-And in the most comfortable way this true gentleman went on until the
+And is the most comfortable way this true gentleman went on until the
 boy mentioned that he must be keeping him from his work.
 
 "Not at all; not at all," was the quick and hearty response. "Not a
@@ -1923,7 +2230,7 @@ us see," he said, as he delved in a drawer full of letters.
 For a moment he groped among letters and papers, and then, softly
 closing the drawer, he began that ominous low whistle once more, looked
 inquiringly at each, and dropped his eyes straightway to the papers
-before him on his desk. It was to be only for a few moments, then Miss
+before him on his desk. It was to be only for a few moments, then! Miss
 Alcott turned away.
 
 The boy felt the interview could not last much longer. So, anxious to
@@ -2018,9 +2325,7 @@ events of the most wonderful week in his life!
 
 
 
-
 VII. A Plunge into Wall Street
-
 
 The father of Edward Bok passed away when Edward was eighteen years of
 age, and it was found that the amount of the small insurance left behind
@@ -2170,7 +2475,7 @@ aid of the editor.
 At first, the circulation of the magazine permitted the boys to wrap the
 copies themselves; and then they, with two other boys, would carry as
 huge bundles as they could lift, put them late at night on the front
-platform of the street-cars, and take them to the post-office. Thus the
+platform of the street-cars, and take them to the postoffice. Thus the
 boys absolutely knew the growth of their circulation by the weight of
 their bundles and the number of their front-platform trips each month.
 Soon a baker's hand-cart was leased for an evening, and that was added
@@ -2454,9 +2759,7 @@ Cary William Bok.
 
 
 
-
 VIII. Starting a Newspaper Syndicate
-
 
 Edward felt that his daytime hours, spent in a publishing atmosphere as
 stenographer with Henry Holt and Company, were more in line with his
@@ -2787,9 +3090,7 @@ came from Fremont, Ohio, was no less fine!
 
 
 
-
 IX. Association with Henry Ward Beecher
-
 
 As a letter-writer, Henry Ward Beecher was a constant wonder. He never
 wrote a commonplace letter. There was always himself in it--in whatever
@@ -3246,9 +3547,7 @@ arm around the boy's shoulders and walked with him to the door.
 
 
 
-
 X. The First "Woman's Page," "Literary Leaves," and Entering Scribner's
-
 
 Mr. Beecher's weekly newspaper "syndicate" letter was not only
 successful in itself, it made liberal money for the writer and for its
@@ -3441,7 +3740,7 @@ the story and read it.
 Later, when the house decided to start Scribner's Magazine, and Mr.
 Burlingame was selected to be its editor, all the preliminary
 correspondence was dictated to Bok through his employers, and he
-received a first-hand education in the setting up of the machinery
+received a firsthand education in the setting up of the machinery
 necessary for the publication of a magazine. All this he eagerly
 absorbed.
 
@@ -3578,7 +3877,7 @@ and the whole company watched which he chose.
 
 "And which did you choose?" asked the advertising director.
 
-"_Et tu, Brute?_" Stockton smilingly replied. "Well, I'll tell you. I
+"Et tu, Brute?" Stockton smilingly replied. "Well, I'll tell you. I
 asked the butler to bring me another spoon, and then, with a spoon in
 each hand, I attacked both the lady and the tiger at the same time."
 
@@ -3666,9 +3965,7 @@ The book was Edward Bellamy's "Looking Backward".
 
 
 
-
 XI. The Chances for Success
-
 
 Edward Bok does not now remember whether the mental picture had been
 given him, or whether he had conjured it up for himself; but he
@@ -3854,9 +4151,7 @@ And that became, for himself, the rule of Edward Bok's life.
 
 
 
-
 XII. Baptism Under Fire
-
 
 The personnel of the Scribner house was very youthful from the members
 of the firm clear down the line. It was veritably a house of young men.
@@ -3984,7 +4279,7 @@ He was now to receive his first public baptism of fire. He had published
 a symposium, through his newspaper syndicate, discussing the question,
 "Should Clergymen Smoke?" He had induced all the prominent clergymen in
 the country to contribute their views, and so distinguished was the list
-that the article created wide-spread attention.
+that the article created widespread attention.
 
 One of the contributors was the Reverend Richard S. Storrs, D.D., one of
 the most distinguished of Brooklyn's coterie of clergy of that day. A
@@ -4129,9 +4424,7 @@ him.
 
 
 
-
 XIII. Publishing Incidents and Anecdotes
-
 
 One evening some literary men were dining together previous to going to
 a private house where a number of authors were to give readings from
@@ -4358,9 +4651,7 @@ finally the total was a few over twelve thousand!
 
 
 
-
 XIV. Last Years in New York
-
 
 Edward Bok's lines were now to follow those of advertising for several
 years. He was responsible for securing the advertisements for The Book
@@ -4484,7 +4775,7 @@ which was to stand him in good stead when, in his later experience, he
 was called upon to view the business problems of a magazine from the
 editor's position. His knowledge of the manufacture of the two magazines
 in his charge was likewise educative, as was the fascinating study of
-typography which always had, and has to-day, a wonderful attraction for
+typography which always had, and has today, a wonderful attraction for
 him.
 
 It was, however, in connection with the advertising of the general books
@@ -4798,9 +5089,7 @@ Journal.
 
 
 
-
 XV. Successful Editorship
-
 
 There is a popular notion that the editor of a woman's magazine should
 be a woman. At first thought, perhaps, this sounds logical. But it is a
@@ -4820,7 +5109,7 @@ direction of a modern magazine, either essentially feminine in its
 appeal or not, can safely be entrusted to a woman when one considers how
 largely executive is the nature of such a position, and how thoroughly
 sensitive the modern editor must be to the hundred and one practical
-business matters which to-day enter into and form so large a part of the
+business matters which today enter into and form so large a part of the
 editorial duties. We may question whether women have as yet had
 sufficient experience in the world of business to cope successfully with
 the material questions of a pivotal editorial position. Then, again, it
@@ -4943,9 +5232,7 @@ follows this golden rule.
 
 
 
-
 XVI. First Years as a Woman's Editor
-
 
 Edward Bok has often been referred to as the one "who made The Ladies'
 Home Journal out of nothing," who "built it from the ground up," or, in
@@ -5258,12 +5545,12 @@ the prospective mother before the baby's birth; and Doctor Coolidge,
 when the baby was born, would immediately send to the young mother a
 printed list of comprehensive questions, which, when answered, would be
 immediately followed by a full set of directions as to the care of the
-child, including carefully prepared food formulae . At the end of the
+child, including carefully prepared food formule. At the end of the
 first month, another set of questions was to be forwarded for answer by
 the mother, and this monthly service was to be continued until the child
 reached the age of two years. The contact with the mother would then
 become intermittent, dependent upon the condition of mother and child.
-All the directions and formulae were to be used only under the direction
+All the directions and formule were to be used only under the direction
 of the mother's attendant physician, so that the fullest cooperation
 might be established between the physician on the case and the advisory
 department of the magazine.
@@ -5301,7 +5588,7 @@ of the registry.
 
 Scores of physicians who vigorously opposed the work at the start have
 amended their opinions and now not only give their enthusiastic
-endorsement, but have adopted Doctor Coolidge's food formulae for their
+endorsement, but have adopted Doctor Coolidge's food formule for their
 private and hospital cases.
 
 It was this comprehensive personal service, built up back of the
@@ -5339,9 +5626,7 @@ of the magazine.
 
 
 
-
 XVII. Eugene Field's Practical Jokes
-
 
 Eugene Field was one of Edward Bok's close friends and also his despair,
 as was likely to be the case with those who were intimate with the
@@ -5491,7 +5776,7 @@ joke-cross my heart," he would say, and then he invited the party to
 lunch with him on their way to the train when they were leaving for
 home. "But we shall be in our travelling clothes, not dressed for a
 luncheon," protested the women. It was an unfortunate protest, for it
-gave Field an idea! "Oh," he assured them, "just a good-bye luncheon at
+gave Field an idea! "Oh," he assured them, "just a goodbye luncheon at
 the club; just you folks and Julia and me." They believed him, only to
 find upon their arrival at the club an assembly of over sixty guests at
 one of the most elaborate luncheons ever served in Chicago, with each
@@ -5514,7 +5799,7 @@ Bok and said: "No use, Bok, I'm a sick man. I must go home. Cable can
 see this through," and despite every protestation Field bundled himself
 into his overcoat and made for his carriage. "Sick, Bok, really sick,"
 he muttered as they rode along. Then seeing a fruit-stand he said: "Buy
-me a bag of oranges, like a good fellow. They'll do me good."
+me a bag of oranges, like a good fellow. They'll do me good.
 
 When Philadelphia was reached, he suggested: "Do you know I think it
 would do me good to go and see Frank in the new play? Tell the driver to
@@ -5567,9 +5852,7 @@ not always be thwarted!
 
 
 
-
 XVIII. Building Up a Magazine
-
 
 The newspaper paragraphers were now having a delightful time with Edward
 Bok and his woman's magazine, and he was having a delightful time with
@@ -5961,9 +6244,7 @@ competition. The woman's magazine field was to belong to them!
 
 
 
-
 XIX. Personality Letters
-
 
 Edward Bok was always interested in the manner in which personality was
 expressed in letters. For this reason he adopted, as a boy, the method
@@ -6205,7 +6486,7 @@ had not called and talked it over while in Washington. Bok explained the
 impression that was current; whereupon came the answer, swift and
 definite!
 
-"There are no _personae non gratae_ at the White House. I long ago learned
+"There are no personae non gratae at the White House. I long ago learned
 the waste of time in maintaining such a class."
 
 There was in circulation during Henry Ward Beecher's lifetime a story,
@@ -6320,7 +6601,7 @@ you will add yours, that the story may be complete.
 
 "We are settled out here in Cape Town, eating strawberries in January
 and complaining of the heat, which for the last two days has been a
-little more than we pampered folk are used to; say 70 deg. at night. But
+little more than we pampered folk are used to; say 70° at night. But
 what a lovely land it is, and how superb are the hydrangeas! Figure to
 yourself four acres of 'em, all in bloom on the hillside near our home!"
 
@@ -6445,9 +6726,7 @@ events, I will trust Him with absolute confidence.
 
 
 
-
 XX. Meeting a Reverse or Two
-
 
 With the hitherto unreached magazine circulation of a million copies a
 month in sight, Edward Bok decided to give a broader scope to the
@@ -6647,7 +6926,7 @@ Greenaway was not at home.
 asked Bok, as he indicated a figure just coming down the stairs. And as
 the sister turned to see, Bok stepped into the hall. At least he was
 inside! Bok had never seen a photograph of Miss Greenaway, he did not
-know that the figure coming down-stairs was the artist; but his instinct
+know that the figure coming downstairs was the artist; but his instinct
 had led him right, and good fortune was with him.
 
 He now introduced himself to Kate Greenaway, and explained that one of
@@ -6733,7 +7012,7 @@ writing days were over.
 
 But Bok was by no means through with non-copyright echoes, for he was
 destined next day to take part in an even stormier interview on the same
-subject with Alexander Dumas _fils_. Bok had been publishing a series of
+subject with Alexander Dumas fils. Bok had been publishing a series of
 articles in which authors had told how they had been led to write their
 most famous books, and he wanted Dumas to tell "How I Came to Write
 'Camille.'"
@@ -6865,7 +7144,7 @@ effective style.
 
 The authors for whom the Journal was now publishing attracted the
 attention of all the writers of the day, and the supply of good material
-became too great for its capacity. Bok studied the mechanical make-up,
+became too great for its capacity. Bok studied the mechanical makeup,
 and felt that by some method he must find more room in the front
 portion. He had allotted the first third of the magazine to the general
 literary contents and the latter two-thirds to departmental features.
@@ -6893,7 +7172,7 @@ the back" which has now become a recognized principle in the make-up of
 magazines of larger size. At first, Bok's readers objected, but he
 explained why he did it; that they were the benefiters by the plan; and,
 so far as readers can be satisfied with what is, at best, an awkward
-method of presentation, they were content. To-day the practice is
+method of presentation, they were content. Today the practice is
 undoubtedly followed to excess, some magazines carrying as much as
 eighty and ninety columns over from the front to the back; from such
 abuse it will, of course, free itself either by a return to the original
@@ -6950,9 +7229,7 @@ the magazine on every hand.
 
 
 
-
 XXI. A Signal Piece of Constructive Work
-
 
 The influence of his grandfather and the injunction of his grandmother
 to her sons that each "should make the world a better or a more
@@ -7087,7 +7364,7 @@ architects. Shortly before Stanford White passed away, he wrote: "I
 firmly believe that Edward Bok has more completely influenced American
 domestic architecture for the better than any man in this generation.
 When he began, I was short-sighted enough to discourage him, and refused
-to co-operate with him. If Bok came to me now, I would not only make
+to cooperate with him. If Bok came to me now, I would not only make
 plans for him, but I would waive any fee for them in retribution for my
 early mistake."
 
@@ -7282,9 +7559,7 @@ one man to have done."
 
 
 
-
 XXII. An Adventure in Civic and Private Art
-
 
 Edward Bok now turned his attention to those influences of a more public
 nature which he felt could contribute to elevate the standard of public
@@ -7305,7 +7580,7 @@ grain of even the most beautiful woods; gilt was recklessly laid on
 everywhere regardless of its fitness or relation. The hangings in the
 cars were not only in bad taste, but distinctly unsanitary; the heaviest
 velvets and showiest plushes were used; mirrors with bronzed and
-redplushed frames were the order of the day; cord portieres,
+redplushed frames were the order of the day; cord portières,
 lambrequins, and tasselled fringes were still in vogue in these cars. It
 was a veritable riot of the worst conceivable ideas; and it was this
 standard that these women of the new-money class were accepting and
@@ -7692,9 +7967,7 @@ insurmountable, that the dream became true.
 
 
 
-
 XXIII. Theodore Roosevelt's Influence
-
 
 When the virile figure of Theodore Roosevelt swung down the national
 highway, Bok was one of thousands of young men who felt strongly the
@@ -7740,7 +8013,7 @@ or for evil who is welcomed into a million homes and read with
 confidence. That's fine, and is all right so far as it goes, and in your
 case it goes very far. Still, there remains more for you to do. The
 public has built up for you a personality: now give that personality to
-whatever interests you in contact with your immediate fellow-men:
+whatever interests you in contact with your immediate fellowmen:
 something in your neighborhood, your city, or your State. With one hand
 work and write to your national audience: let no fads sway you. Hew
 close to the line. But, with the other hand, swing into the life
@@ -7860,9 +8133,7 @@ thinking and shown him the way.
 
 
 
-
 XXIV. Theodore Roosevelt's Anonymous Editorial Work
-
 
 While Theodore Roosevelt was President of the United States, Bok was
 sitting one evening talking with him, when suddenly Mr. Roosevelt turned
@@ -7914,7 +8185,7 @@ write out your views, and submit the manuscript to you; and we will have
 a department stating exactly how the material is obtained and how far it
 represents your own work. In that way, with only an hour's work each
 month, you can get your views, correctly stated, before this vast
-audience when it is not in trolleys or railroad-cars."
+audience when it is not in trolleys or railroadcars."
 
 "But I haven't the hour," answered Roosevelt, impressed, however, as Bok
 saw. "I have only half an hour, when I am awake, when I am really idle,
@@ -8076,7 +8347,7 @@ side, I should strongly recommend that you do so with this article."
 
   Sagamore Hill. April 26th 1916
 
-  This is a really noteworthy story--a
+  This is a really noteworth story--a
   profoundly touching story--of the Americanizing
   of an immigrant girl, who between babyhood
   and young womanhood leaps over a space
@@ -8179,9 +8450,7 @@ them--where would have been the limit?
 
 
 
-
 XXV. The President and the Boy
-
 
 One of the incidents connected with Edward Bok that Theodore Roosevelt
 never forgot was when Bok's eldest boy chose the colonel as a Christmas
@@ -8423,9 +8692,7 @@ of the United States.
 
 
 
-
 XXVI. The Literary Back-Stairs
-
 
 His complete absorption in the magazine work now compelled Bok to close
 his newspaper syndicate in New York and end the writing of his weekly
@@ -8584,9 +8851,7 @@ the clarity of to-day and will be that of to-morrow.
 
 
 
-
 XXVII. Women's Clubs and Woman Suffrage
-
 
 Edward Bok was now jumping from one sizzling frying-pan into another. He
 had become vitally interested in the growth of women's clubs as a power
@@ -8892,9 +9157,7 @@ who had once so radically differed.
 
 
 
-
 XXVIII. Going Home with Kipling, and as a Lecturer
-
 
 It was in June, 1899, when Rudyard Kipling, after the loss of his
 daughter and his own almost fatal illness from pneumonia in America,
@@ -8928,7 +9191,7 @@ bounds; he turned in the most inimitable "copy" to the Tonic, describing
 the woman's feelings as she read the different departments in the
 magazine. Of course, Bok, as editor of the Tonic, promptly pigeon-holed
 the reporter's "copy"; then relented, and, in a fine spirit of
-large-mindedness, "printed" Kipling's paeans of rapture over Bok's
+large-mindedness, "printed" Kipling's peans of rapture over Bok's
 subscriber. The preparation of the paper was a daily joy: it kept the
 different members busy, and each evening the copy was handed to "the
 large circle of readers"--the two women of the party--to read aloud. At
@@ -9429,9 +9692,7 @@ magazine!
 
 
 
-
 XXIX. An Excursion into the Feminine Nature
-
 
 The strangling hold which the Paris couturiers had secured on the
 American woman in their absolute dictation as to her fashions in dress,
@@ -9463,7 +9724,7 @@ induced the great actress to verify the statements printed. She went
 farther and expressed amazement at the readiness with which the American
 woman had been duped; and indicated her horror on seeing American women
 of refined sensibilities and position dressed in the gowns of the
-_declasse_ street-women of Paris. The somewhat sensational nature of the
+declasse street-women of Paris. The somewhat sensational nature of the
 articles attracted the attention of the American newspapers, which
 copied and commented on them; the gist of them was cabled over to Paris,
 and, of course, the Paris couturiers denied the charges. But their
@@ -9771,9 +10032,7 @@ He never will.
 
 
 
-
 XXX. Cleaning Up the Patent-Medicine and Other Evils
-
 
 In 1892 The Ladies' Home Journal announced that it would thereafter
 accept no advertisements of patent medicines for its pages. It was a
@@ -10079,9 +10338,7 @@ attention.
 
 
 
-
 XXXI. Adventures in Civics
-
 
 The electric power companies at Niagara Falls were beginning to draw so
 much water from above the great Horseshoe Falls as to bring into
@@ -10360,7 +10617,7 @@ sign; instead of the unsightly wooden ones, cast-iron automobile
 warnings were placed at every dangerous spot; community bulletin-boards,
 preventing the display of notices on trees and poles, were placed at the
 railroad station; litter-cans were distributed over the entire
-community; a new railroad station and post-office were secured; the
+community; a new railroad station and postoffice were secured; the
 station grounds were laid out as a garden by a landscape architect; new
 roads of permanent construction, from curb to curb, were laid down;
 uniform tree-planting along the roads was introduced; bird-houses were
@@ -10417,9 +10674,7 @@ community consciousness.
 
 
 
-
 XXXII. A Bewildered Bok
-
 
 One of the misfortunes of Edward Bok's training, which he realized more
 clearly as time went on, was that music had little or no place in his
@@ -10646,9 +10901,7 @@ orchestra."
 
 
 
-
 XXXIII. How Millions of People Are Reached
-
 
 The success of The Ladies' Home Journal went steadily forward. The
 circulation had passed the previously unheard-of figure for a monthly
@@ -10834,7 +11087,7 @@ purpose, I can promise you.'
 "Am goin' to try mighty hard to send you the dialect work you've so long
 wanted; in few weeks at furthest. 'Patience and shuffle the cards.'
 
-"I am really, just now, stark and bare of one common-sense idea. In the
+"I am really, just now, stark and bare of one commonsence idea. In the
 writing line, I was never so involved before and see no end to the
 ink-(an humorous voluntary provocative, I trust of much
 merriment)-creasing pressure of it all.
@@ -10964,7 +11217,7 @@ decorous new dances. Bok could see no reason why the people should not
 dance, if they wanted to, so long as they kept within the bounds of
 decency.
 
-He found the Castles willing and eager to co-operate, not only because of
+He found the Castles willing and eager to cooperate, not only because of
 the publicity it would mean for them, but because they were themselves
 not in favor of the new mode. They had little sympathy for the
 elimination of the graceful dance by the introduction of what they
@@ -11005,9 +11258,7 @@ No man is, for that matter.
 
 
 
-
 XXXIV. A War Magazine and War Activities
-
 
 When, early in 1917, events began so to shape themselves as directly to
 point to the entrance of the United States into the Great War, Edward
@@ -11169,7 +11420,7 @@ Food Administration, presented pages of substitutes in full colors.
 Of course, miscellaneous articles on the war there were, without number.
 Before the war was ended, the magazine did send a representative to the
 front in Catherine Van Dyke, who did most effective work for the
-magazine in articles of a general nature. The full-page battle pictures,
+magazine in articles of a general nature. The fullpage battle pictures,
 painted from data furnished by those who took actual part, were
 universally commended and exhausted even the largest editions that could
 be printed. A source of continual astonishment was the number of copies
@@ -11460,9 +11711,7 @@ and were killed in their service.
 
 
 
-
 XXXV. At the Battle-Fronts in the Great War
-
 
 It was in the summer of 1918 that Edward Bok received from the British
 Government, through its department of public information, of which Lord
@@ -11839,9 +12088,7 @@ He hoped never again to see, at first hand, what war meant!
 
 
 
-
 XXXVI. The End of Thirty Years' Editorship
-
 
 On the voyage home, Edward Bok decided that, now the war was over, he
 would ask his company to release him from the editorship of The Ladies'
@@ -12016,7 +12263,7 @@ Fifteen minutes later, Edward Bok left his editorial office for the last
 time.
 
 But as he went home his thoughts were not of his last day at the office,
-nor of his last acts as editor, but of his last caller--the soldier-boy
+nor of his last acts as editor, but of his last caller-the soldier-boy
 whom he had left seemingly so surely on his way "West," and whose eyes
 had burned into his memory on that fearful night a year before!
 
@@ -12029,9 +12276,7 @@ Grant:
 
 
 
-
 XXXVII. The Third Period
-
 
 The announcement of Edward Bok's retirement came as a great surprise to
 his friends. Save for one here and there, who had a clearer vision, the
@@ -12185,7 +12430,7 @@ the one really means the other.
 
 "Idealism," immediately say some. Of course, it is. But what is the
 matter with idealism? What really is idealism? Do one-tenth of those who
-use the phrase so glibly know its true meaning, the part it has played in
+use the phrase so glibly know it true meaning, the part it has played in
 the world? The worthy interpretation of an ideal is that it embodies an
 idea--a conception of the imagination. All ideas are at first ideals.
 They must be. The producer brings forth an idea, but some dreamer has
@@ -12305,9 +12550,7 @@ Americanization.
 
 
 
-
 XXXVIII. Where America Fell Short with Me
-
 
 When I came to the United States as a lad of six, the most needful
 lesson for me, as a boy, was the necessity for thrift. I had been taught
@@ -12360,7 +12603,7 @@ this atmosphere that the foreign-born comes now, with every inducement
 to spend and no encouragement to save. For as it was in the days of my
 boyhood, so it is to-day--only worse. One need only go over the
 experiences of the past two years, to compare the receipts of merchants
-who cater to the working-classes and the statements of savings-banks
+who cater to the working-classes and the statements of savingsbanks
 throughout the country, to read the story of how the foreign-born are
 learning the habit of criminal wastefulness as taught them by the
 American.
@@ -12382,7 +12625,7 @@ best who received the praise of the teacher; it was the boy who could
 write the largest number of words in a given time. The acid test in
 arithmetic was not the mastery of the method, but the number of minutes
 required to work out an example. If a boy abbreviated the month January
-to "Jan." and the word Company to "Co." he received a hundred per cent
+to "Jan."and the word Company to "Co." he received a hundred per cent
 mark, as did the boy who spelled out the words and who could not make
 the teacher see that "Co." did not spell "Company."
 
@@ -12443,7 +12686,7 @@ realizes the confusions of the English language as does the
 foreign-born--and got what I could through these joint efforts. But I
 gained nothing from the much-vaunted public-school system which the
 United States had borrowed from my own country, and then had rendered
-incompetent--either by a sheer disregard for the thoroughness that makes
+incompetent-either by a sheer disregard for the thoroughness that makes
 the Dutch public schools the admiration of the world, or by too close a
 regard for politics.
 
@@ -12678,9 +12921,7 @@ overcoming them--a result that all might not achieve.
 
 
 
-
 XXXIX. What I Owe to America
-
 
 Whatever shortcomings I may have found during my fifty-year period of
 Americanization; however America may have failed to help my transition
@@ -12716,14 +12957,14 @@ can in the older European countries, and depend upon the glamour of the
 past to sustain him or the momentum of success to carry him. Probably
 the most alert public in the world, it requires of its leaders that they
 be alert. Its appetite for variety is insatiable, but its appreciation,
-when given, is full-handed and whole-hearted. The American public never
+when given, is fullhanded and whole-hearted. The American public never
 holds back from the man to whom it gives; it never bestows in a
 niggardly way; it gives all or nothing.
 
 What is not generally understood of the American people is their
 wonderful idealism. Nothing so completely surprises the foreign-born as
 the discovery of this trait in the American character. The impression is
-current in European countries--perhaps less generally since the war--that
+current in European countries-perhaps less generally since the war--that
 America is given over solely to a worship of the American dollar. While
 between nations as between individuals, comparisons are valueless, it
 may not be amiss to say, from personal knowledge, that the Dutch worship
@@ -12860,373 +13101,9 @@ publishers demonstrates, in a striking manner, the curious turning of
 the wheel of time, and gives me a sense of gratification difficult of
 expression.
 
-Edward W. Bok
 
 
 
 
+End of Project Gutenberg's The Americanization of Edward Bok, by Edward Bok
 
-
-
-End of the Project Gutenberg EBook of The Americanization of Edward Bok, by
-Edward William Bok
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE AMERICANIZATION OF EDWARD BOK ***
-
-***** This file should be named 3538.txt or 3538.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/5/3/3538/
-
-Produced by An Anonymous Volunteer
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
